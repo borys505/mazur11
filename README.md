@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C# and Unity.
 - 👯 I’m looking to collaborate on PHP & Javascript related projects.
 - 🤔 I’m looking for help with C# and Unity.
-- 💬 Ask me about PHP or any tech related stuff.
+- 💬 Ask me about PHP or any Javascript related stuff.
 
 [![GitHub mazur11](https://img.shields.io/github/followers/mazur11?label=follow&style=social)](https://github.com/mazur11)
 
