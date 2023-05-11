@@ -1,6 +1,4 @@
 ### Hi I'm Borys Mazur 👋
-<!--
-**mazur11/mazur11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 </a>
 <a href="https://github.com/mazur11">
