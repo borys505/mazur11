@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/44521256?s=200&v=4" alt="CodeIgniter" title="CodeIgniter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" title="Vue"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png" alt="Next" title="Nextjs"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nuxt/nuxt.png" alt="Nuxt" title="Nuxtjs"></code>
+
 
 
 <a href="https://github.com/mazur11">
